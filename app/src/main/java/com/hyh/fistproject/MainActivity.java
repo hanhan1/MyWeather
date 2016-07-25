@@ -1,9 +1,10 @@
 package com.hyh.fistproject;
 
-import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity {
+public class MainActivity extends BaseActivity {
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
